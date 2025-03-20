@@ -1,0 +1,25 @@
+# Core data manipulation libraries
+pandas==2.2.3
+numpy==2.0.2
+
+# Visualization libraries
+matplotlib==3.9.4
+seaborn==0.13.2
+plotly==6.0.1
+ipywidgets==8.1.5
+
+# Machine learning libraries
+scikit-learn==1.6.1
+xgboost==2.1.4
+
+# Jupyter and notebook dependencies
+jupyter==1.1.1
+jupyterlab==4.3.6
+notebook==7.3.3
+
+# Optional packages for enhanced visualizations
+missingno
+
+# Stats and analysis
+statsmodels==0.14.4
+shap==0.47.0 
